@@ -17,7 +17,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
 > "JS is like a bad ex — unpredictable, emotionally inconsistent, and somehow still everywhere."
 
- <div style="text-align: right"> -Chat GPT as a giga chad </div> 
+ <p align="right">This is left-aligned</p>
