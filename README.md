@@ -4,12 +4,12 @@
 
 # 📊 Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=isaacmalak&align=center&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=isaacmalak&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmalak&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+![](https://github-readme-stats.vercel.app/api?username=isaacmalak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=isaacmalak&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmalak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
