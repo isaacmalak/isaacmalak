@@ -5,6 +5,11 @@
 # 📊 Stats:
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=isaacmalak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
