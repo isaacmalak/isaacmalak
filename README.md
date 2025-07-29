@@ -20,5 +20,5 @@
 > "JS is like a bad ex — unpredictable, emotionally inconsistent, and somehow still everywhere."
 >
 > <div align="right">
->  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ✍️ <sub><em>— Chat GPT</em></sub>
+>    ✍️ <sub><em>— Chat GPT</em></sub>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 > </div>
