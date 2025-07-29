@@ -17,8 +17,12 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-> "JS is like a bad ex — unpredictable, emotionally inconsistent, and somehow still everywhere."
+> _"JS is like a bad ex — unpredictable, emotionally inconsistent, and somehow still everywhere."_
 >
 > <div align="right">
->    ✍️ <sub><em>— Chat GPT</em></sub>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+>    ✍️ <sub><em>— Chat GPT</em></sub>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 > </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💭--Chat_GPT_Quote-lightgrey?style=for-the-badge&labelColor=white&color=gray" />
+</p>
