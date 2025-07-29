@@ -18,5 +18,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 > "JS is like a bad ex — unpredictable, emotionally inconsistent, and somehow still everywhere."
+>
+> <div align="right">
+>   ✍️ <sub><em>— Chat GPT</em></sub>
 
- <div align="right"><em>-- Chat GPT</em></div>
+</div>
