@@ -19,5 +19,4 @@
 
 > "JS is like a bad ex — unpredictable, emotionally inconsistent, and somehow still everywhere."
 
- <p align="right" style="color: gray; font-style: italic; margin-top: 1em;">-- Chat GPT</p>
-
+ <div align="right"><em>-- Chat GPT</em></div>
