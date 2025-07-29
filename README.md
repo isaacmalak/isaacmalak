@@ -11,18 +11,10 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 > _"JS is like a bad ex — unpredictable, emotionally inconsistent, and somehow still everywhere."_
 >
 > <div align="right">
->    ✍️ <sub><em>— Chat GPT</em></sub>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+>    ✍️ <sub><em>— Chat GPT</em></sub>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 > </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/💭--Chat_GPT_Quote-lightgrey?style=for-the-badge&labelColor=white&color=gray" />
-</p>
