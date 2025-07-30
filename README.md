@@ -5,6 +5,13 @@
 # 📊 Stats:
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   44 mins         █████████████████████░░░░   83.37 %
+YAML       8 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=isaacmalak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
