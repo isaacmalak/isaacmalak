@@ -10,6 +10,7 @@ jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
+    environment: waka_env
     steps:
       - uses: athul/waka-readme@master
         with:
