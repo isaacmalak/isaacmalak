@@ -26,4 +26,4 @@ JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░
 >    ✍️ <sub><em>— Chat GPT</em></sub>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 > </div>
 
-![svg](https://raw.githubusercontent.com/isaacmalak/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
+![svg](https://raw.githubusercontent.com/isaacmalak/github-profile-3d-contrib/profile-night-green.svg)
