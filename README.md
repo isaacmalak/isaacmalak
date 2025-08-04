@@ -27,3 +27,4 @@ JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░
 > </div>
 
 ![svg](https://github.com/isaacmalak/isaacmalak/blob/main/profile-3d-contrib/profile-night-green.svg)
+<img src="assets/yin_yang_cats.gif"/>
