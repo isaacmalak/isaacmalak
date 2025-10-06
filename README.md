@@ -10,9 +10,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 50 mins   ███████████████████████▓░   94.96 %
-TSConfig     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+TypeScript   1 hr 45 mins    █████████████████████▓░░░   86.06 %
+AutoHotkey   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+TSConfig     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
